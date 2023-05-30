@@ -16,6 +16,16 @@ body {
     
 }
 
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /* 
 TIPHOGRAPHY SYSTEM
 -COLORS
